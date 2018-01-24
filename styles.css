@@ -1,0 +1,22 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.navbar-dark .navbar-brand {
+  color: red;
+}
+
+.jumbotron {
+  background-image: url(assembly-hall.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron img {
+  height: 300px;
+}
+
+.jumbotron h1 {
+  font-family: 'Permanent Marker', sans-serif;
+  color: red;
+}
